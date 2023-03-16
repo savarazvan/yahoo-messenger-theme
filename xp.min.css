@@ -1012,7 +1012,7 @@ body #app-mount .titleBar-1it3bQ .wordmarkWindows-2dq6rw {
 body #app-mount .titleBar-1it3bQ .wordmarkWindows-2dq6rw::before {
     content: "Test";
     display: block;
-    position: relative;
+    position: relative; 
     font-size: 14px;
     line-height: 30px;
     font-weight: 600;
