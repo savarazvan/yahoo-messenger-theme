@@ -1010,7 +1010,7 @@ body #app-mount .titleBar-1it3bQ .wordmarkWindows-2dq6rw {
 }
 
 body #app-mount .titleBar-1it3bQ .wordmarkWindows-2dq6rw::before {
-    content: "Discord";
+    content: "Test";
     display: block;
     position: relative;
     font-size: 14px;
